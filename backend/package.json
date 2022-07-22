@@ -36,7 +36,7 @@
     "bmp-img": "^1.1.0",
     "cors": "^2.8.5",
     "fastify-static": "^4.7.0",
-    "file-type": "^17.1.2",
+    "file-type": "^17.1.3",
     "ms": "^2.1.3",
     "p-timeout": "^5.1.0",
     "passport": "^0.6.0",
